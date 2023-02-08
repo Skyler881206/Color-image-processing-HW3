@@ -1,6 +1,6 @@
 # Color Image Processing Homework 3
 
-> Author: M11102122 陳煜翔
+> Author: Skyler
 
 > Date: 2022/12/30
 
